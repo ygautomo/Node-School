@@ -52,7 +52,8 @@ Also keep in mind that it is idiomatic to check for errors and do early-returns 
 	}
 
 Notes:
-  » To print these instructions again, run: learnyounode print
-  » To execute your program in a test environment, run: learnyounode run program.js
-  » To verify your program, run: learnyounode verify program.js
-  » For help run: learnyounode help
+
+	» To print these instructions again, run: learnyounode print
+	» To execute your program in a test environment, run: learnyounode run program.js
+	» To verify your program, run: learnyounode verify program.js
+	» For help run: learnyounode help
