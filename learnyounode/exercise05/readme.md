@@ -24,6 +24,7 @@ You may also find node's path module helpful, particularly the extname method.
 Documentation on the path module can be found by pointing your browser here:
 file:///home/ubuntu/.nvm/versions/node/v4.4.5/lib/node_modules/learnyounode/node_apidoc/path.html
 
+
 	» To print these instructions again, run: learnyounode print
 	» To execute your program in a test environment, run: learnyounode run program.js
 	» To verify your program, run: learnyounode verify program.js
