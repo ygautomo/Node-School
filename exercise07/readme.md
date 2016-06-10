@@ -24,6 +24,7 @@ The "data" event is emitted when a chunk of data is available and can be process
 
 The response object / Stream that you get from http.get() also has a setEncoding() method. If you call this method with "utf8", the "data" events will emit Strings rather than the standard Node Buffer objects which you have to explicitly convert to Strings.
 
+
 	» To print these instructions again, run: learnyounode print
 	» To execute your program in a test environment, run: learnyounode run program.js
 	» To verify your program, run: learnyounode verify program.js
